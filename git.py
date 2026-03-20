@@ -1,3 +1,5 @@
 print("Hello, World!")
 print("Welcome to Python programming.")
 print("This is a simple script to demonstrate basic print statements.")
+print("You can use this as a starting point for your own Python projects.")
+print("Feel free to modify and expand this code as you learn more about Python.")
